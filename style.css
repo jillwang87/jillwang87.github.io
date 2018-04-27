@@ -1,0 +1,87 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#home {
+	background-color: aliceblue;
+}
+
+.profile img{
+	padding-top: 30px;
+	height:350px;
+	width:auto;
+	
+}
+
+/*#icons {
+	height: 175px;
+	
+}*/
+
+
+header .row {
+	display: flex;
+  align-items: center;
+}
+
+#icons img{
+	padding-top:50px;
+	max-width:90%;
+	max-height:auto;
+	overflow: hidden;
+	
+}
+
+#resume img{
+	max-width:10%;
+	max-height:auto;
+}
+
+#name h1{
+	font-family:"Raleway", sans-serif;
+	font-size:3rem;
+	/*color:ghostwhite;*/
+	/*text-align:center;*/
+	font-style: oblique;
+	letter-spacing: 2px;
+	padding-top: 35px;
+	height: 100px;
+	/*background-color: black;*/
+	
+}
+
+
+
+
+header nav {
+  /*display: flex;
+  justify-content: flex-end;*/
+	font-size:3.5rem;
+	position:relative;
+	left:40px;
+	top:33px;
+	width:50px;
+	height:220px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 220px;
+	border-radius: 5px;
+	color: ghostwhite;
+	margin:20px;
+}
+
+#education{
+	background-color:#f65314;
+	
+}
+
+#achievement{
+	background-color:#00a1f1;
+}
+
+#about{
+	background-color: #ffbb00;
+}
+
+#idk{
+	background-color: #7cbb00;s
+}

@@ -1,0 +1,130 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.nav.navbar-nav.navbar-right li a img {
+	max-width:auto;
+	max-height:30px;
+	overflow: hidden;
+}
+.nav.navbar-nav.navbar-left li a {
+    color: black;
+	font-family: raleway;
+	font-size: 1.8em !important;
+}
+
+.navbar-brand img {
+	width:auto;
+	height: 100%;
+}
+
+.icon-bar {
+	background-color: #FFFFFF;
+}
+
+.Education {
+	font-size: 1.8em;
+	text-align: center;
+	padding-bottom: 300px;
+}
+
+.profile {
+	width:90%;
+	overflow: hidden;
+	padding-left: 15px;
+	padding-top: 50px;
+	border-radius: 50%;
+	padding-bottom: 100px;
+}
+
+.text-center {
+	font-size: 5em !important;
+}
+
+.jumbotron {
+	color: black;
+	font-family: raleway;
+	font-size: 1.8em;
+	padding-bottom: 250px;
+	position:relative;
+	height:auto;
+	padding-top: 300px;
+	background:#FFFFFF;
+}
+
+.jumbotron.h1 {
+	font-size: 1.4em !important;
+}
+
+
+
+.Intro {
+	padding-left:25px;
+	padding-right:25px;
+	text-align: left;
+	color: #000000;
+}
+
+.UniLogo {
+	max-width: 360px;
+	padding-top: 80px;
+	paddig-button:100px;
+	margin-left: auto;
+    margin-right: auto;
+	overflow: hidden;
+}
+
+.UniDescription {
+	font-family: raleway;
+}
+
+.HeaderText {
+	font-family: raleway;
+	text-align: center;
+	background-color: #000000;
+	color: #FFFFFF;
+}
+
+.Nova {
+	color:#000080;
+	font-family: raleway;
+	padding-left: 30px;
+	padding-top: 10px;
+}
+
+
+
+.carousel-inner .item img,
+  .carousel-inner .item  a img {
+      width: 70%;
+      margin: auto;
+  }
+
+.NovaIntro {
+	padding-top: 100px;
+	color: #000000;
+	font-family: raleway;
+	text-align: left;
+	padding-left: 25px;;
+}
+
+.NovaTeamPics img {
+	border-radius: 50%;
+	
+}
+
+.NovaTeamPics p {
+	color: #000000;
+	text-align: center
+}
+
+.Courses {
+	font-family: raleway;
+}
+
+.Skills {
+	font-family: raleway;
+}
+
+.list-group-item {
+	padding-left: 30px;
+}
